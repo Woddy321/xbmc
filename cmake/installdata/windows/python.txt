@@ -1,1 +1,2 @@
 system/python/*
+project/BuildDependencies/${ARCH}/bin/Python/* system/python/*
